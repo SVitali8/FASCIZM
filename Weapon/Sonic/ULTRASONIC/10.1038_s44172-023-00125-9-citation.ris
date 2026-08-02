@@ -1,0 +1,21 @@
+TY  - JOUR
+AU  - Xu, Yifei
+AU  - Sun, Leshan
+AU  - Wang, Siqi
+AU  - Yan, Yuchen
+AU  - Pandey, Prabodh
+AU  - Novickij, Vitalij
+AU  - Xiang, Liangzhong
+PY  - 2023
+DA  - 2023/10/23
+TI  - Electroacoustic tomography for real-time visualization of electrical field dynamics in deep tissue during electroporation
+JO  - Communications Engineering
+SP  - 75
+VL  - 2
+IS  - 1
+AB  - Despite the widespread applications of electroporation in biotechnology and medicine, monitoring the distribution of deep tissue electrical fields in real-time during treatment continues to pose a challenge. Current medical imaging modalities are unable to monitor electroporation during pulse delivery. Here we propose a method to use electroacoustic tomography (EAT) to prompt the emission of broadband ultrasound waves via electrical energy deposition. EAT boasts submillimeter resolution at depths reaching 7.5 centimeters and can deliver imaging speeds up to 100 frames per second when paired with an ultrasound array system. We’ve successfully detected EAT signals at electric field strengths ranging from 60 volts per centimeter to several tens of kilovolts per centimeter. This establishes EAT as a potential label-free, high-resolution approach for real-time evaluation of deep tissue electroporation during therapeutic procedures.
+SN  - 2731-3395
+UR  - https://doi.org/10.1038/s44172-023-00125-9
+DO  - 10.1038/s44172-023-00125-9
+ID  - Xu2023
+ER  - 

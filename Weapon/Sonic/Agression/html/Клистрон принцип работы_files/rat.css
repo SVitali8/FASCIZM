@@ -1,0 +1,17 @@
+.rating{position:relative;width:250px;margin:0 auto;}
+.rating_ok{position:absolute;width:100%;height:100%;top:0;left:0;z-index:2;display:none;}
+.rat_star{position:relative;display:block;float:left;width:50px;height:50px;background:url(/mods/rating/stars.png) 0px -50px;cursor:pointer;}
+.rat_star_hover{background:url(/mods/rating/stars.png) 0px 0px;}
+.rat_star_pol{background:url(/mods/rating/stars.png) 0px -100px;}
+.rat_star_hover1{background:url(/mods/rating/stars.png) 0px -150px;}
+.rat_status{text-align:center;line-height:20px;margin-top:10px;font-size:14px;}
+#rating_ok{color:green;font-weight:700;}
+.ratt{border:4px dashed #000;padding:20px;margin:20px 0;background:#f6f7f8;}
+.ratt_zag{font-weight:700;display:block;margin:10px 0;text-align:center;}
+.ya-share2__list > .ya-share2__item{width:40px!important;height:40px!important;}
+.ya-share2__link,.ya-share2__badge,.ya-share2__icon{width:100%!important;height:100%!important;}
+.ya-share2{margin:20px auto;width:300px;text-align:center;}
+@media only screen and (max-width:400px){
+	.ya-share2{margin:20px auto;width:260px;text-align:center;}
+.ya-share2__list > .ya-share2__item{width:30px!important;height:30px!important;}
+}

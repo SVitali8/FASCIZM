@@ -1,0 +1,16 @@
+.opros{border:1px solid #5e3f24;border-top:4px solid #5e3f24;position:relative;background:#faf6f2;margin: auto;padding:10px 20px;margin-top:20px;}
+.opros_shkala{border-radius:4px;padding:10px 0;background:#f1c93d;width:0;margin-bottom:15px;transition:0.2s;text-align:right;border:1px solid #bc940b;border-left:2px solid #bc940b;display:none;position:relative;}
+.opros_shkala span{position:absolute;}
+.opros_otvety{margin:0 0 10px 0;}
+.opros_otvet{padding:5px 10px;background:#5e3f24;border:1px solid #5e3f24;display:inline-block;font-weight:600;color:#fff;margin-top:7px;margin-right:5px;border-radius:4px;cursor:pointer;line-height:20px;border-bottom:1px solid #3f2611;border-right:1px solid #3f2611;}
+.opros_otvet:hover{border:1px solid #3f2611;background:#faf6f2;color:#3f2611;}
+.opros_otvet_select{background:none;padding:0;border:0;color:#5e3f24;}
+.opros_otvet_select:hover{border:0;}
+.opros_otvet span{background:#4b4b4b;color:#fff;padding:0 5px;position:relative;z-index:2;border-radius:4px;}
+.opros_fon{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;display:none;}
+.opros_vopros{text-align:left;font-weight:600;font-size:18px;padding:10px 0;padding-left:50px;position:relative;display:block;}
+.opros_vopros span{display:inline-block;}
+.opros_vopros:before{content:"";display:block;position:absolute;width:30px;height:30px;top:50%;margin-top:-15px;left:0;background:url(images/vopros.svg);background-size:100%;}
+.opros_info{font-size:14px;font-style:italic;line-height:15px;margin-top:20px;display:block;margin-right:100px;}
+.opros_resultat{z-index:4;position:absolute;float:right;font-size:14px;font-style:italic;background:#faf6f2;padding:3px 5px;right:10px;bottom:10px;display:inline-block;line-height:15px;border:1px solid #b69c85;border-right:1px solid #5e3f24;border-bottom:1px solid #5e3f24;border-radius:4px;cursor:pointer;}
+.opros_resultat:hover{background:#ffffff;border:1px solid #5e3f24;}

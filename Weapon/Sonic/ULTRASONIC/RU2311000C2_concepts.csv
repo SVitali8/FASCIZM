@@ -1,0 +1,48 @@
+name,domain,smiles,inchi_key,query match,sections
+conductor,Substances,,,0.000,title|abstract
+radiation,Effects,,,0.000,claims|abstract|description
+method,Methods,,,0.000,claims|abstract|description
+compression,Effects,,,0.000,claims|abstract|description
+compression,Methods,,,0.000,claims|abstract|description
+dispersion,Substances,,,0.000,claims|description
+measurement,Methods,,,0.000,claims|description
+partition,Methods,,,0.000,claims|description
+chemical reaction,Methods,,,0.000,claims|description
+material,Substances,,,0.000,claims|description
+displacement reaction,Methods,,,0.000,claims
+effects,Effects,,,0.000,abstract|description
+manufacturing process,Methods,,,0.000,abstract|description
+substance,Substances,,,0.000,abstract
+transformation,Effects,,,0.000,abstract
+diagram,Methods,,,0.000,description
+destructive effect,Effects,,,0.000,description
+amplification,Effects,,,0.000,description
+engineering process,Methods,,,0.000,description
+nucleic acid amplification method,Methods,,,0.000,description
+array,Methods,,,0.000,description
+benefit,Effects,,,0.000,description
+change,Effects,,,0.000,description
+biosynthetic process,Effects,,,0.000,description
+construction,Methods,,,0.000,description
+membrane,Substances,,,0.000,description
+Neodymium,Inorganic materials,,,0.000,description
+action,Effects,,,0.000,description
+bending,Methods,,,0.000,description
+catabolic process,Effects,,,0.000,description
+coherent effect,Effects,,,0.000,description
+concentrate,Substances,,,0.000,description
+degradation reaction,Methods,,,0.000,description
+delay,Effects,,,0.000,description
+extrusion,Methods,,,0.000,description
+interaction,Effects,,,0.000,description
+mating,Effects,,,0.000,description
+neodymium atom,Chemical compound,[Nd],QEFYFXOXNSNQGX-UHFFFAOYSA-N,0.000,description
+pathogen,Species,,,0.000,description
+pathogenic effect,Effects,,,0.000,description
+phase shift,Effects,,,0.000,description
+process,Effects,,,0.000,description
+reduction,Effects,,,0.000,description
+reflection method,Methods,,,0.000,description
+response,Effects,,,0.000,description
+spectrum,Methods,,,0.000,description
+transforming effect,Effects,,,0.000,description

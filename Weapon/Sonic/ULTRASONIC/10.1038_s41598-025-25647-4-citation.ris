@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Le Berre, Théo
+AU  - Voyer, Damien
+AU  - Rival, Guilhem
+AU  - Frénéa-Robin, Marie
+AU  - Marchalot, Julien
+PY  - 2025
+DA  - 2025/11/24
+TI  - Distribution of relaxation times as a tool to monitor tissue electroporation
+JO  - Scientific Reports
+SP  - 41678
+VL  - 15
+IS  - 1
+AB  - In this paper, the effect of electroporation on tissue is studied using the concept of distribution of relaxation times (DRT). DRT is an alternative to traditional electrical impedance spectroscopy, where measurement data are analyzed on a time scale rather than in the frequency domain. Applied to biological tissue, this approach is shown to remove the contribution of the electrode polarization in a 2-electrode system in a simple way. DRT also makes it easy to differentiate between dispersions associated with the different compartments of the tissue (counterion cloud, cell membrane, cell content and cell nucleus) and quantify their contribution to the total DC resistance. The study of plant tissue samples reveals the wide spread of the $$\beta$$dispersion related to cell membrane polarization, which can be explained not only by the variable size of cells but also by the variable content of cells. The effects of electroporation can also be analyzed precisely. In particular, the irreversible electroporation threshold varies according to the cell content, as confirmed by electroporation simulations. In the electric field range of reversible electroporation, the shape of the DRT related to the $$\beta$$dispersion is significantly modified, while the DC resistance remains constant. One explanation is put forward, involving the counterions cloud whose spatial distribution is altered after the application of the electric field.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-025-25647-4
+DO  - 10.1038/s41598-025-25647-4
+ID  - Le Berre2025
+ER  - 
